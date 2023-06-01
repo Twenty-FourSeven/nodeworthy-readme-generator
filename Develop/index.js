@@ -1,4 +1,3 @@
-// TODO: Include packages needed for this application
 const fs = require("fs");
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
@@ -13,7 +12,7 @@ inquirer
     {
       type: "input",
       name: "description",
-      message: "what is the purpose or description of this project?",
+      message: "What is the purpose or description of this project?",
     },
     {
       type: "input",
