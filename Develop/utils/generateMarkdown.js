@@ -1,48 +1,17 @@
-function generateMarkdown(data) {
-  return `
-# ${data.title}
+// TODO: Create a function that returns a license badge based on which license is passed in
+// If there is no license, return an empty string
+function renderLicenseBadge(license) {
 
-![License](https://img.shields.io/badge/License-${data.license}-blue.svg "License Badge")
+}
 
-## Description:
-  ${data.description}
+// TODO: Create a function to generate markdown for README
+function generateMarkdown(answers) {
+  return `# ${answers.title}
 
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Test](#test)
-- [Credits](#credits)
-- [License](#license)
-- [Questions](#questions)
+# Description
+${answers.description}
 
-## Installation:
-  ${data.installation}
-
-## Test:
-  ${data.test}
-
-## Usage:
-  ${data.usage}
-
-## Contributing:
-  ${data.contribution}
-
-## License:
-For more information about the ${data.license} License, click on the link below.
-
-- [License](https://opensource.org/licenses/${data.license})
-
-## Questions:
-For additional information about the ReadMe Generator you can go to my GitHub page at the following link:
-
-- [GitHub Profile](https://github.com/${data.username})
-
-For additional questions please email me at: ${data.email}
-
-[Video Walkthrough](https://___________________________________________)
 `;
 }
-// store variables or methods in module.exports
+
 module.exports = generateMarkdown;
