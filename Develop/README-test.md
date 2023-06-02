@@ -1,5 +1,5 @@
 
-# test
+# Test
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
@@ -37,8 +37,6 @@ For more information about the MIT License, click on the link below.
 ## Questions:
 For additional information about the ReadMe Generator you can go to my GitHub page at the following link:
 
-- [GitHub Profile](https://github.com/GitHub_User)
+- [GitHub Profile](https://github.com/Twenty-FourSeven)
 
-For additional questions please email me at: emailaddress
-
-[Video Walkthrough](https://___________________________________________)
+For additional questions please email me at: thomas@hotmail.com
