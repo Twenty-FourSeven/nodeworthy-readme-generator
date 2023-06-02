@@ -1,10 +1,10 @@
 
-# Test
+# test
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
 ## Description:
-  Test description
+  test
 
 ## Table of Contents
 - [Title](#title)
@@ -18,16 +18,16 @@
 - [Questions](#questions)
 
 ## Installation:
-  Install Test
+  test
 
 ## Test:
-  test test
+  test
 
 ## Usage:
-  Test usage
+  test
 
 ## Contributing:
-  test contrib
+  test
 
 ## License:
 For more information about the MIT License, click on the link below.
@@ -37,9 +37,6 @@ For more information about the MIT License, click on the link below.
 ## Questions:
 For additional information about the ReadMe Generator you can go to my GitHub page at the following link:
 
-- [GitHub Profile](https://github.com/test user)
+- [GitHub Profile](https://github.com/Twenty-FourSeven)
 
-For additional questions please email me at: test email
-
-## Walkthrough Video
-[]
+For additional questions please email me at: thomas.james.1@hotmail.com
