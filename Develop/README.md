@@ -2,9 +2,11 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+
 ## Description
 
 This command line program will help you to generate professional project READMEâ€™s.
+
 
 ## Table of Contents
 
@@ -13,17 +15,21 @@ This command line program will help you to generate professional project READMEâ
 - [License](#license)
 - [Questions](#questions)
 
+
 ## Installation
 
 node i
+
 
 ## Usage
 
 node index.js
 
+
 ## License
 
 This project is licensed under the MIT license. Click [here](https://opensource.org/licenses/MIT) for more information.
+
 
 ## Questions
 
@@ -31,5 +37,3 @@ For additional information or clarification, please contact me using the informa
 
 - GitHub: [Twenty-FourSeven](https://github.com/Twenty-FourSeven)
 - Email: thomas.james.1@hotmail.com
-
-[Walkthrough video](https://drive.google.com/________________________________)
