@@ -32,4 +32,4 @@ For additional information or clarification, please contact me using the informa
 - GitHub: [Twenty-FourSeven](https://github.com/Twenty-FourSeven)
 - Email: thomas.james.1@hotmail.com
 
-<video src="Project video.mp4" width="640" height="360" controls></video>
+[Walkthrough video](https://drive.google.com/________________________________)
