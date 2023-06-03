@@ -16,7 +16,7 @@ inquirer
     },
     {
       type: "input",
-      name: "description",
+      name: "installation",
       message: "Please provide installation steps for your project.",
     },
     {
@@ -27,12 +27,18 @@ inquirer
     {
       type: "input",
       message: "How may users contribute to your project?",
-      name: "contribute",
+      name: "contribution",
     },
     {
       type: "input",
       message: "How may users test your project?",
       name: "test",
+    },
+    {
+      type: 'list',
+      name: 'license',
+      message: 'Please select a license for your project:',
+      choices: ['MIT', 'GNU GPLv3', 'Apache License 2.0', 'ISC License', 'No License']
     },
     {
       type: "input",
